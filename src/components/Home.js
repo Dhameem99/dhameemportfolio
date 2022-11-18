@@ -6,6 +6,7 @@ import { motion } from "framer-motion";
 import dark_blue from "../assets/pc.jpg";
 import { Typewriter } from "react-simple-typewriter";
 
+
 const Home = () => {
   return (
     <>
